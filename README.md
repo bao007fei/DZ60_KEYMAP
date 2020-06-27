@@ -1,4 +1,4 @@
-# DZ60_KEYMAP
+# DZ60_KEYMAP (Inspired by Anne pro 2)
 
 1. Import **My_Keymap.json** file to https://config.qmk.fm/. 
 2. Compile it.
